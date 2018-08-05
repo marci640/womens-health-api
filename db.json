@@ -1,259 +1,257 @@
-{
-  "States": [
-    {
-      "state": "AL",
-      "abortion_clinics": 6,
-      "crisis_pregnancy_centers": 72
-    },
-    {
-      "state": "AK",
-      "abortion_clinics": 8,
-      "crisis_pregnancy_centers": 14
-    },
-    {
-      "state": "AZ",
-      "abortion_clinics": 7,
-      "crisis_pregnancy_centers": 80
-    },
-    {
-      "state": "AR",
-      "abortion_clinics": 3,
-      "crisis_pregnancy_centers": 59
-    },
-    {
-      "state": "CA",
-      "abortion_clinics": 123,
-      "crisis_pregnancy_centers": 344
-    },
-    {
-      "state": "CO",
-      "abortion_clinics": 15,
-      "crisis_pregnancy_centers": 95
-    },
-    {
-      "state": "CT",
-      "abortion_clinics": 18,
-      "crisis_pregnancy_centers": 48
-    },
-    {
-      "state": "DE",
-      "abortion_clinics": 2,
-      "crisis_pregnancy_centers": 12
-    },
-    {
-      "state": "DC",
-      "abortion_clinics": 2,
-      "crisis_pregnancy_centers": 6
-    },
-    {
-      "state": "FL",
-      "abortion_clinics": 48,
-      "crisis_pregnancy_centers": 285
-    },
-    {
-      "state": "GA",
-      "abortion_clinics": 10,
-      "crisis_pregnancy_centers": 121
-    },
-    {
-      "state": "HI",
-      "abortion_clinics": 2,
-      "crisis_pregnancy_centers": 15
-    },
-    {
-      "state": "ID",
-      "abortion_clinics": 3,
-      "crisis_pregnancy_centers": 27
-    },
-    {
-      "state": "IL",
-      "abortion_clinics": 25,
-      "crisis_pregnancy_centers": 164
-    },
-    {
-      "state": "IN",
-      "abortion_clinics": 6,
-      "crisis_pregnancy_centers": 129
-    },
-    {
-      "state": "IA",
-      "abortion_clinics": 6,
-      "crisis_pregnancy_centers": 67
-    },
-    {
-      "state": "KS",
-      "abortion_clinics": 4,
-      "crisis_pregnancy_centers": 53
-    },
-    {
-      "state": "KY",
-      "abortion_clinics": 1,
-      "crisis_pregnancy_centers": 77
-    },
-    {
-      "state": "LA",
-      "abortion_clinics": 3,
-      "crisis_pregnancy_centers": 55
-    },
-    {
-      "state": "ME",
-      "abortion_clinics": 19,
-      "crisis_pregnancy_centers": 26
-    },
-    {
-      "state": "MD",
-      "abortion_clinics": 18,
-      "crisis_pregnancy_centers": 66
-    },
-    {
-      "state": "MA",
-      "abortion_clinics": 9,
-      "crisis_pregnancy_centers": 43
-    },
-    {
-      "state": "MI",
-      "abortion_clinics": 24,
-      "crisis_pregnancy_centers": 135
-    },
-    {
-      "state": "MN",
-      "abortion_clinics": 5,
-      "crisis_pregnancy_centers": 99
-    },
-    {
-      "state": "MS",
-      "abortion_clinics": 1,
-      "crisis_pregnancy_centers": 46
-    },
-    {
-      "state": "MO",
-      "abortion_clinics": 2,
-      "crisis_pregnancy_centers": 116
-    },
-    {
-      "state": "MT",
-      "abortion_clinics": 5,
-      "crisis_pregnancy_centers": 23
-    },
-    {
-      "state": "NE",
-      "abortion_clinics": 3,
-      "crisis_pregnancy_centers": 31
-    },
-    {
-      "state": "NV",
-      "abortion_clinics": 7,
-      "crisis_pregnancy_centers": 12
-    },
-    {
-      "state": "NH",
-      "abortion_clinics": 5,
-      "crisis_pregnancy_centers": 24
-    },
-    {
-      "state": "NJ",
-      "abortion_clinics": 31,
-      "crisis_pregnancy_centers": 59
-    },
-    {
-      "state": "NM",
-      "abortion_clinics": 5,
-      "crisis_pregnancy_centers": 39
-    },
-    {
-      "state": "NY",
-      "abortion_clinics": 64,
-      "crisis_pregnancy_centers": 197
-    },
-    {
-      "state": "NC",
-      "abortion_clinics": 13,
-      "crisis_pregnancy_centers": 136
-    },
-    {
-      "state": "ND",
-      "abortion_clinics": 1,
-      "crisis_pregnancy_centers": 12
-    },
-    {
-      "state": "OH",
-      "abortion_clinics": 11,
-      "crisis_pregnancy_centers": 203
-    },
-    {
-      "state": "OK",
-      "abortion_clinics": 3,
-      "crisis_pregnancy_centers": 66
-    },
-    {
-      "state": "OR",
-      "abortion_clinics": 10,
-      "crisis_pregnancy_centers": 60
-    },
-    {
-      "state": "PA",
-      "abortion_clinics": 15,
-      "crisis_pregnancy_centers": 225
-    },
-    {
-      "state": "RI",
-      "abortion_clinics": 2,
-      "crisis_pregnancy_centers": 8
-    },
-    {
-      "state": "SC",
-      "abortion_clinics": 2,
-      "crisis_pregnancy_centers": 46
-    },
-    {
-      "state": "SD",
-      "abortion_clinics": 1,
-      "crisis_pregnancy_centers": 19
-    },
-    {
-      "state": "TN",
-      "abortion_clinics": 8,
-      "crisis_pregnancy_centers": 84
-    },
-    {
-      "state": "TX",
-      "abortion_clinics": 19,
-      "crisis_pregnancy_centers": 322
-    },
-    {
-      "state": "UT",
-      "abortion_clinics": 2,
-      "crisis_pregnancy_centers": 10
-    },
-    {
-      "state": "VT",
-      "abortion_clinics": 6,
-      "crisis_pregnancy_centers": 12
-    },
-    {
-      "state": "VA",
-      "abortion_clinics": 12,
-      "crisis_pregnancy_centers": 82
-    },
-    {
-      "state": "WA",
-      "abortion_clinics": 33,
-      "crisis_pregnancy_centers": 64
-    },
-    {
-      "state": "WV",
-      "abortion_clinics": 1,
-      "crisis_pregnancy_centers": 41
-    },
-    {
-      "state": "WI",
-      "abortion_clinics": 3,
-      "crisis_pregnancy_centers": 103
-    },
-    {
-      "state": "WY",
-      "abortion_clinics": 1,
-      "crisis_pregnancy_centers": 14
-    }
-  ]
-}
+[
+  {
+    "state": "AL",
+    "abortion_clinics": 6,
+    "crisis_pregnancy_centers": 72
+  },
+  {
+    "state": "AK",
+    "abortion_clinics": 8,
+    "crisis_pregnancy_centers": 14
+  },
+  {
+    "state": "AZ",
+    "abortion_clinics": 7,
+    "crisis_pregnancy_centers": 80
+  },
+  {
+    "state": "AR",
+    "abortion_clinics": 3,
+    "crisis_pregnancy_centers": 59
+  },
+  {
+    "state": "CA",
+    "abortion_clinics": 123,
+    "crisis_pregnancy_centers": 344
+  },
+  {
+    "state": "CO",
+    "abortion_clinics": 15,
+    "crisis_pregnancy_centers": 95
+  },
+  {
+    "state": "CT",
+    "abortion_clinics": 18,
+    "crisis_pregnancy_centers": 48
+  },
+  {
+    "state": "DE",
+    "abortion_clinics": 2,
+    "crisis_pregnancy_centers": 12
+  },
+  {
+    "state": "DC",
+    "abortion_clinics": 2,
+    "crisis_pregnancy_centers": 6
+  },
+  {
+    "state": "FL",
+    "abortion_clinics": 48,
+    "crisis_pregnancy_centers": 285
+  },
+  {
+    "state": "GA",
+    "abortion_clinics": 10,
+    "crisis_pregnancy_centers": 121
+  },
+  {
+    "state": "HI",
+    "abortion_clinics": 2,
+    "crisis_pregnancy_centers": 15
+  },
+  {
+    "state": "ID",
+    "abortion_clinics": 3,
+    "crisis_pregnancy_centers": 27
+  },
+  {
+    "state": "IL",
+    "abortion_clinics": 25,
+    "crisis_pregnancy_centers": 164
+  },
+  {
+    "state": "IN",
+    "abortion_clinics": 6,
+    "crisis_pregnancy_centers": 129
+  },
+  {
+    "state": "IA",
+    "abortion_clinics": 6,
+    "crisis_pregnancy_centers": 67
+  },
+  {
+    "state": "KS",
+    "abortion_clinics": 4,
+    "crisis_pregnancy_centers": 53
+  },
+  {
+    "state": "KY",
+    "abortion_clinics": 1,
+    "crisis_pregnancy_centers": 77
+  },
+  {
+    "state": "LA",
+    "abortion_clinics": 3,
+    "crisis_pregnancy_centers": 55
+  },
+  {
+    "state": "ME",
+    "abortion_clinics": 19,
+    "crisis_pregnancy_centers": 26
+  },
+  {
+    "state": "MD",
+    "abortion_clinics": 18,
+    "crisis_pregnancy_centers": 66
+  },
+  {
+    "state": "MA",
+    "abortion_clinics": 9,
+    "crisis_pregnancy_centers": 43
+  },
+  {
+    "state": "MI",
+    "abortion_clinics": 24,
+    "crisis_pregnancy_centers": 135
+  },
+  {
+    "state": "MN",
+    "abortion_clinics": 5,
+    "crisis_pregnancy_centers": 99
+  },
+  {
+    "state": "MS",
+    "abortion_clinics": 1,
+    "crisis_pregnancy_centers": 46
+  },
+  {
+    "state": "MO",
+    "abortion_clinics": 2,
+    "crisis_pregnancy_centers": 116
+  },
+  {
+    "state": "MT",
+    "abortion_clinics": 5,
+    "crisis_pregnancy_centers": 23
+  },
+  {
+    "state": "NE",
+    "abortion_clinics": 3,
+    "crisis_pregnancy_centers": 31
+  },
+  {
+    "state": "NV",
+    "abortion_clinics": 7,
+    "crisis_pregnancy_centers": 12
+  },
+  {
+    "state": "NH",
+    "abortion_clinics": 5,
+    "crisis_pregnancy_centers": 24
+  },
+  {
+    "state": "NJ",
+    "abortion_clinics": 31,
+    "crisis_pregnancy_centers": 59
+  },
+  {
+    "state": "NM",
+    "abortion_clinics": 5,
+    "crisis_pregnancy_centers": 39
+  },
+  {
+    "state": "NY",
+    "abortion_clinics": 64,
+    "crisis_pregnancy_centers": 197
+  },
+  {
+    "state": "NC",
+    "abortion_clinics": 13,
+    "crisis_pregnancy_centers": 136
+  },
+  {
+    "state": "ND",
+    "abortion_clinics": 1,
+    "crisis_pregnancy_centers": 12
+  },
+  {
+    "state": "OH",
+    "abortion_clinics": 11,
+    "crisis_pregnancy_centers": 203
+  },
+  {
+    "state": "OK",
+    "abortion_clinics": 3,
+    "crisis_pregnancy_centers": 66
+  },
+  {
+    "state": "OR",
+    "abortion_clinics": 10,
+    "crisis_pregnancy_centers": 60
+  },
+  {
+    "state": "PA",
+    "abortion_clinics": 15,
+    "crisis_pregnancy_centers": 225
+  },
+  {
+    "state": "RI",
+    "abortion_clinics": 2,
+    "crisis_pregnancy_centers": 8
+  },
+  {
+    "state": "SC",
+    "abortion_clinics": 2,
+    "crisis_pregnancy_centers": 46
+  },
+  {
+    "state": "SD",
+    "abortion_clinics": 1,
+    "crisis_pregnancy_centers": 19
+  },
+  {
+    "state": "TN",
+    "abortion_clinics": 8,
+    "crisis_pregnancy_centers": 84
+  },
+  {
+    "state": "TX",
+    "abortion_clinics": 19,
+    "crisis_pregnancy_centers": 322
+  },
+  {
+    "state": "UT",
+    "abortion_clinics": 2,
+    "crisis_pregnancy_centers": 10
+  },
+  {
+    "state": "VT",
+    "abortion_clinics": 6,
+    "crisis_pregnancy_centers": 12
+  },
+  {
+    "state": "VA",
+    "abortion_clinics": 12,
+    "crisis_pregnancy_centers": 82
+  },
+  {
+    "state": "WA",
+    "abortion_clinics": 33,
+    "crisis_pregnancy_centers": 64
+  },
+  {
+    "state": "WV",
+    "abortion_clinics": 1,
+    "crisis_pregnancy_centers": 41
+  },
+  {
+    "state": "WI",
+    "abortion_clinics": 3,
+    "crisis_pregnancy_centers": 103
+  },
+  {
+    "state": "WY",
+    "abortion_clinics": 1,
+    "crisis_pregnancy_centers": 14
+  }
+]
